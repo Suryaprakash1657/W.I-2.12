@@ -72,3 +72,9 @@ This keeps commit history clean and enables changelog generation.
 
 Every pull request must be reviewed before merging.
 
+## Branch Cleanup
+
+
+
+Delete feature branches after merging.
+
