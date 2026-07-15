@@ -66,3 +66,9 @@ This keeps commit history clean and enables changelog generation.
 
 \- Issues are closed after the PR is merged.
 
+## Code Reviews
+
+
+
+Every pull request must be reviewed before merging.
+
